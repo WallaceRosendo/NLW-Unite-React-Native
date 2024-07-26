@@ -5,21 +5,15 @@
 <p align="center">
 Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React Native.
 </p>
+<p align="center">
+Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in para eventos presenciais.
+</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=F48F56&labelColor=00292E">
 </p>
 
 <br>
-
-## 💻 Preview
-
-Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in para eventos presenciais.
-
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://raw.githubusercontent.com/rocketseat-education/nlw-unite-html-css-js/5d2030b901e757353f1548c293fb43930e7026d7/.github/preview.png" width="60%">
-</p>
-
 
 ## 🚀 Tecnologias
 
